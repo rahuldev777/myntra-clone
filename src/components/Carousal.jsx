@@ -88,8 +88,8 @@ function Carousal() {
       />
        <div className=' flex-column d-flex justify-content-center align-items: center mx-auto'>
        
-       <h1>HANDBAGS</h1>
-       <h3>50%-70% Off</h3><br />
+       <h1>WESTERN WEAR</h1>
+       <h3>20%-30% Off</h3><br />
        <Button variant="outline-dark">+Explore</Button>
 
       </div>
@@ -108,8 +108,8 @@ function Carousal() {
       />
       <div className='flex-column d-flex justify-content-center align-items: center mx-auto'>
 
-      <h1>HANDBAGS</h1>
-       <h3>50%-70% Off</h3><br />
+      <h1>SPORTS WEAR</h1>
+       <h3>50% FLAT Off</h3><br />
        <Button variant="outline-dark">+Explore</Button>
        
 

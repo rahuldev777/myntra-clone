@@ -61,7 +61,7 @@ function Carousal() {
         
       <img
         className="d-block   "
-        src="./b-3.jpg"
+        src="./b-1.jpg"
         alt="First slide"
         width={'1000px'}
         height={'400px'}

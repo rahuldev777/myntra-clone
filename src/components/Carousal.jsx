@@ -61,7 +61,7 @@ function Carousal() {
         
       <img
         className="d-block   "
-        src="\src\components\b-3.jpg"
+        src=".\src\components\b-3.jpg"
         alt="First slide"
         width={'1000px'}
         height={'400px'}
@@ -80,7 +80,7 @@ function Carousal() {
        
       <img
         className="d-block  "
-        src="\src\components\b-2.jpg"
+        src=".\src\components\b-2.jpg"
         alt="Second slide"
         width={'1000px'}
         height={'400px'}

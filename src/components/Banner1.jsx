@@ -123,62 +123,62 @@ function Banner1() {
 
 const data=[
   {
-    img:'/image/creulty.jpg',
+    img:'./image/creulty.jpg',
     title:"Creulty-Free personal Care",
     offer:'FLAT 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Bst-selling-csuals.jpg',
+    img:'./image/Bst-selling-csuals.jpg',
     title:"Best-selling Casuals",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Work-ready.jpg',
+    img:'./image/Work-ready.jpg',
     title:"Work-Ready Casuals",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Laid-backs.jpg',
+    img:'./image/Laid-backs.jpg',
     title:"Laid-Backs picks",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Trending-footwear.jpg',
+    img:'./image/Trending-footwear.jpg',
     title:"Trending Footwears",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Trolley-bags.jpg',
+    img:'./image/Trolley-bags.jpg',
     title:"Trolley Bags",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Saree.jpg',
+    img:'./image/Saree.jpg',
     title:"Designers Saree",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/Best-selling-formals.jpg',
+    img:'./image/Best-selling-formals.jpg',
     title:"Best-selling Formals",
     offer:'Min 50%-70% OFF',
     logo:''
   },
   {
-    img:'/image/stylish-footwear.jpg',
+    img:'./image/stylish-footwear.jpg',
     title:"stylish Footwears",
     offer:'Min 50%-70% OFF',
     logo:''
   },
 
   {
-    img:'/image/elvtd-picks.jpg',
+    img:'./image/elvtd-picks.jpg',
     title:"Elaveted-picks",
     offer:'Min 50%-70% OFF',
     logo:''

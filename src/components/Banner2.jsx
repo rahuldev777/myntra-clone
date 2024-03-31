@@ -111,32 +111,32 @@ function Banner2() {
 }
 const data=[
     {
-    img:'/image2/Cool&casual.jpg',
+    img:'./image2/Cool&casual.jpg',
     title:'Cool & Casuals',
     off:'MIN.30% OFF'
 },
 {
-    img:'/image2/Everyday-go-to Find.jpg',
+    img:'./image2/Everyday-go-to Find.jpg',
     title:'Everyday Go To Find',
     off:'UP TO 60% OFF'
 },
 {
-    img:'/image2/Hottest-pair.jpg',
+    img:'./image2/Hottest-pair.jpg',
     title:'Hottest Pair',
     off:'MIN.20% OFF'
 },
 {
-    img:'/image2/Laid-back-style.jpg',
+    img:'./image2/Laid-back-style.jpg',
     title:'Laid Back Style',
     off:'FLAT 40% OFF'
 },
 {
-    img:'/image2/Must-have-collection.jpg',
+    img:'./image2/Must-have-collection.jpg',
     title:'Must Have Collection',
     off:'UP TO 70% OFF'
 },
 {
-    img:'/image2/Sneakers and More.jpg',
+    img:'./image2/Sneakers and More.jpg',
     title:'Sneakers And More',
     off:'UP TO 10% OFF'
 },
@@ -146,12 +146,12 @@ const data=[
     off:'UP TO 80% OFF'
 },
 {
-    img:'/image2/stylishfits.jpg',
+    img:'./image2/stylishfits.jpg',
     title:'Stylish Fits',
     off:'MIN 30% OFF'
 },
 {
-    img:'/image2/trend-forward-collection.jpg',
+    img:'./image2/trend-forward-collection.jpg',
     title:'Trend Forward Collection',
     off:'FLAT 10% OFF'
 },

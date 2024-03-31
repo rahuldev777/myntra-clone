@@ -30,65 +30,65 @@ function Banner3() {
   )
 }
 const data=[{
-  img:'/image3/1.jpg'
+  img:'./image3/1.jpg'
 },
 {
-  img:'/image3/2.jpg'
+  img:'./image3/2.jpg'
 },
 {
-  img:'/image3/3.jpg'
+  img:'./image3/3.jpg'
 },
 {
-  img:'/image3/4.jpg'
+  img:'./image3/4.jpg'
 },
 {
-  img:'/image3/5.jpg'
+  img:'./image3/5.jpg'
 },
 {
-  img:'/image3/6.jpg'
+  img:'./image3/6.jpg'
 },
 {
-  img:'/image3/7.jpg'
+  img:'./image3/7.jpg'
 },
 {
-  img:'/image3/8.jpg'
+  img:'./image3/8.jpg'
 },
 {
-  img:'/image3/9.jpg'
+  img:'./image3/9.jpg'
 },
 {
-  img:'/image3/10.jpg'
+  img:'./image3/10.jpg'
 },
 {
-  img:'/image3/11.jpg'
+  img:'./image3/11.jpg'
 },
 {
-  img:'/image3/12.jpg'
+  img:'./image3/12.jpg'
 },
 {
-  img:'/image3/13.jpg'
+  img:'./image3/13.jpg'
 },
 {
-  img:'/image3/14.jpg'
+  img:'./image3/14.jpg'
 },
 {
-  img:'/image3/15.jpg'
+  img:'./image3/15.jpg'
 },
 {
-  img:'/image3/16.jpg'
+  img:'./image3/16.jpg'
 },{
-  img:'/image3/17.jpg'
+  img:'./image3/17.jpg'
 },{
-  img:'/image3/18.jpg'
+  img:'./image3/18.jpg'
 },
 {
-  img:'/image3/19.jpg'
+  img:'./image3/19.jpg'
 },
 {
-  img:'/image3/20.jpg'
+  img:'./image3/20.jpg'
 },
 {
-  img:'/image3/22.jpg'
+  img:'./image3/22.jpg'
 },
 ]
 

@@ -141,7 +141,7 @@ const data=[
     off:'UP TO 10% OFF'
 },
 {
-    img:'/image2/stunning-Footwear.jpg',
+    img:'./image2/stunning-Footwear.jpg',
     title:'Stunning-Footwear',
     off:'UP TO 80% OFF'
 },
